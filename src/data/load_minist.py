@@ -2,7 +2,7 @@ import numpy as np
 import struct
 import os
 
-data_predir = './datasets/'
+data_predir = '../../datasets/'
 
 
 def one_hot(x, n):
