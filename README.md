@@ -1,9 +1,12 @@
-Theano-Toturials
+Some Personal Learning Notebooks
 ================
 
-this repository mainly focus on how do ml with theano.
+this repository mainly focus on how do ml with theano, keras, scikit-learn.
 
-the reference:
+
+
+
+some references:
 
 Intoduction how to Deep Learning with Python [youtube video](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
