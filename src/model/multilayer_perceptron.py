@@ -1,3 +1,8 @@
+'''
+test the impact of optimizer and learning rates multilayer perceptron
+referece: http://cs231n.github.io/neural-networks-case-study/
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 from keras.models import Sequential
